@@ -4,9 +4,7 @@ Developing a Word Predictive system using LSTM
 
 Author: Kula Maganti 
 
-About: In this repository, an two layer LSTM is constructed using the Project Gutenberg
-text files, specficially the Metamorphosis dataset. 
-
+About:
 Text generation or specifically next-word prediction, allows users to type with errors and faster. Models such as LSTM and other RNN models are specifically chosen for next-word predictions. LSTM was used in this project to show adequate results and reveal significant loss deduction per epoch. Using this model, the user can generate one word from other previous words.
 ## Requirements
 
