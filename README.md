@@ -19,7 +19,7 @@ Text generation or specifically next-word prediction, allows users to type with 
 - Make sure that all the packages requiremnts have been installed 
 - This project only has one external library(tensorflow), you only need to install it using the command `!pip install (package_name)` in jupyter notebook cell, just before importing them.
 - Make sure the dataset.txt is downloaded
-- Then just run run the file and everything should work fine. 
+- Then just run run the next_word_predict.ipynb file and everything should work fine. 
 
 ## Model Roadmap 
 
